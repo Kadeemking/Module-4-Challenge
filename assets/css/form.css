@@ -1,0 +1,55 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 3px solid black;
+}
+
+main figure{
+    flex: 1 0 45%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    border-right: 3px solid black;
+    padding-top: 5%;
+    margin-right: 3px;
+}
+
+main figcaption{
+    background-image: linear-gradient(rgb(255, 235, 170), rgb(255, 196, 0), rgb(60, 41, 3));
+    width: 450px;
+    height: 450px;
+    padding: 0 20%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+figcaption h1{
+    width: 100%;
+    font-size: 30px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+main section{
+    flex: 1 0 45%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-left: 3px solid black;
+}
+
+section h2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+main form{
+    width: 100%;
+    padding: 0 5%;
+}
+
+input, textarea{
+    width: 100%;
+}
