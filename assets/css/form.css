@@ -2,6 +2,14 @@ main{
     display: flex;
     flex-wrap: wrap;
     border-top: 3px solid black;
+    margin: 0 8px;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: 3px solid black;
+    margin: 0 8px 3px 8px;
 }
 
 main figure{
