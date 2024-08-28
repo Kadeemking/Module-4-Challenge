@@ -31,17 +31,19 @@ main article{
 footer{
     border-top: 3px solid black;
     margin: 3px 8px;;
+    padding-bottom: 25px;
 }
 
 footer p{
     font-weight: bold;
+    padding-left: 25px;
 }
 
 footer h3{
     display: flex;
     width: 100%;
     justify-content: center;
-    font-size: small;
+    font-size: smaller;
     margin-top: 3%;
 }
 

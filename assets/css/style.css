@@ -4,13 +4,6 @@
     box-sizing: border-box;
 }
 
-/* header{
-    display: flex;
-    justify-content: space-between;
-    border-bottom: 3px solid black;
-    margin: 0 8px 3px 8px;
-} */
-
 #theme{
     width: 1.5%;
     margin: 1%;
