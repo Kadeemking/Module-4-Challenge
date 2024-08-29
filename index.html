@@ -22,7 +22,7 @@
         </figure>
         <section>
             <h2>What's on Your Mind</h2>
-            <form>
+            <form id="blog-form">
                 <label for="username">Username</label>
                 <br>
                 <input type="text" id="username">
@@ -33,13 +33,15 @@
                 <br>
                 <label for="content">Content</label>
                 <br>
-                <textarea name="" id=""></textarea>
+                <textarea name="" id="content"></textarea>
                 <br>
                 <input type="submit" value="submit">
             </form>
         </section>
     </main>
     <script src="./assets/js/form.js"></script>
+    <!-- form js is for the functionality of the blog that allows the information to be stored in local storage, and transitions to the next page of the blog -->
     <script src="./assets/js/logic.js"></script>
+    <!-- logic js is for the night and day modes -->
 </body>
 </html>
