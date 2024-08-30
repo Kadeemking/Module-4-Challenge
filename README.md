@@ -2,12 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+We were tasked with creating a Blog website that saves the input data in local storage. I was able to:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Create and design my Blog utilizing CSS.
+- Create a night and day design for my webpage that the user can toggle between with the button in the top right hand corner
+- Add Javascript functions to save input data to local storage
+- Add Javscript functions and a for loop to save and display post that are saved in the local storage. 
 
 ## Table of Contents (Optional)
 
@@ -17,11 +17,11 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+![alt text](./assets/photos/image.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+<a href="https://github.com/Kadeemking/Module-4-Challenge.git">Git Hub Repo</a>
 
-![alt text](assets/images/screenshot.png)
+<a href="https://kadeemking.github.io/Module-4-Challenge/">Live link</a>
 
 ## Credits
 
@@ -33,4 +33,4 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Features
 
-If your project has a lot of features, list them here.
+On my Blog you can make a post by just inputting a username, selecting a title for your post, and then inserting your comments or feelings in the content box. Once you're finished you can hit submit, where you will be redirected to the blogs page. There you can see other post listed.
