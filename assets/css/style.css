@@ -8,3 +8,17 @@
     width: 1.5%;
     margin: 1%;
 }
+
+/* Light Mode */
+.light {
+    background-color: #ffffff;
+    color: black;
+    height: 100vh;
+  }
+/* Dark Mode */
+  .dark {
+    background-color:#243447;
+    height: 100vh;
+    color: #ecebeb;
+    border-color: #ffffff;
+  }
